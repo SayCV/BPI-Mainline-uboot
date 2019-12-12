@@ -495,6 +495,7 @@ dtb-$(CONFIG_MACH_SUN8I_H3) += \
 	sun8i-h3-orangepi-plus2e.dtb
 dtb-$(CONFIG_MACH_SUN8I_R40) += \
 	sun8i-r40-bananapi-m2-ultra.dtb \
+	sun8i-r40-chaospi-daq19-v1.dtb \
 	sun8i-v40-bananapi-m2-berry.dtb
 dtb-$(CONFIG_MACH_SUN8I_V3S) += \
 	sun8i-v3s-licheepi-zero.dtb
